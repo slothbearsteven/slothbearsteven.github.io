@@ -36,3 +36,19 @@ font-weight: bold}
 .coolicon{
   font-size: larger;
 }
+.contactinfo{
+  background-color: white;
+}
+.selfie{
+  border: 3px solid black;
+  height: 100%;
+   width: 100% 
+}
+.contactinfotext{
+  font-size: x-large;
+  line-height: 3;
+ 
+}
+.myself{
+  font-size: large;
+}
