@@ -1,0 +1,18 @@
+.top-background{
+  background-image: url(https://nationalzoo.si.edu/sites/default/files/animals/slothbear-001.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+color:white;
+text-shadow: 2px 0px 3px black,-2px 0px 3px black;
+font-size: xx-large;
+font-weight: bolder;
+font-style: oblique;
+background-color: black
+}
+.descript{font-size: large;}
+.main-background{
+  background-image: url(https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif);
+  min-height: 569px;
+  min-width: 320px;
+  background-attachment: fixed;
+}
