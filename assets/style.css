@@ -1,70 +1,100 @@
-.top-background{
+.top-background {
   background-image: url(https://nationalzoo.si.edu/sites/default/files/animals/slothbear-001.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   min-height: 450px;
-color:white;
-text-shadow: 2px 0px 3px black,-2px 0px 3px black;
-font-size: xx-large;
-font-weight: bolder;
-font-style: oblique;
-background-color: black;
-margin-bottom: -200px
+  background-position-x: center;
+  color: white;
+  text-shadow: 2px 0px 3px black, -2px 0px 3px black;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-style: oblique;
+  background-color: black;
+  margin-bottom: -200px
 }
-.descript{font-size: large;}
-.main-background{
+
+
+.descript {
+  font-size: large;
+}
+
+.main-background {
   background-image: url(https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif);
   min-height: 569px;
   min-width: 320px;
   background-attachment: fixed;
 }
-.cardsofnote{
+
+.cardsofnote {
   background-color: white;
   background-size: contain;
   font-size: x-large;
   text-align: center;
-  box-shadow: 0px 0px 8px 10px rgba(0,0 ,0 ,.5 );
+  box-shadow: 0px 0px 8px 10px rgba(0, 0, 0, .5);
   color: black;
 }
-.logo1{
-  color:#e44d26;
+
+.logo1 {
+  color: #e44d26;
 }
-.logo2{
+
+.logo2 {
   color: #0375b8
 }
-.logo3{
-  color:teal
+
+.logo3 {
+  color: teal
 }
-.logo4{
-  color:blue
+
+.logo4 {
+  color: blue
 }
-.school{font-size: small;
-font-weight: bold}
-.coolicon{
+
+.school {
+  font-size: small;
+  font-weight: bold
+}
+
+.coolicon {
   font-size: larger;
 }
-.contactinfo{
+
+.contactinfo {
   background-color: white;
 }
-.selfie{
+
+.selfie {
   border: 3px solid black;
   height: 100%;
-   width: 100% 
+  width: 100%
 }
-.contactinfotext{
+
+.contactinfotext {
   font-size: x-large;
   line-height: 3;
- 
+
 }
-.myself{
+
+.myself {
   font-size: large;
 }
-.projectpic{  height: 80%;
-   width: 100% ;
-  border-top: 20px solid white}
-  .linkintime{
-    color: black
-  }
-  .projectpic1{  height: 80%;
-   width: 100% ;
-  border-top: 20px solid white}
+
+.projectpic {
+  height: 80%;
+  width: 100%;
+  border-top: 20px solid white
+}
+
+.linkintime {
+  color: black
+}
+
+.projectpic1 {
+  height: 80%;
+  width: 100%;
+  border-top: 20px solid white
+}
+
+.navigation {
+  margin-top: 5px;
+}
